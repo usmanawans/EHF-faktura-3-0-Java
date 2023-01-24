@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+/EHF-faktura-3-0.iml
+/.mvn/
+/.idea/
+/mvnw
+/mvnw.cmd
