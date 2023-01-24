@@ -1,6 +1,6 @@
 # EHF Faktura 3.0 format
 
-### Denne applikasjonen skal generere PEPPOL BIS XML-format i GUI
+Denne applikasjonen skal generere PEPPOL BIS XML-format i GUI.
 
 
 | Status | Oppgaver                                          |
